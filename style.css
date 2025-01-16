@@ -1,0 +1,71 @@
+ i {
+    position: relative;
+    left: -50px;
+} 
+.container-fluid button {
+    position: relative;
+    left: 350px;
+}
+ .second-navbar .nav-item i  {
+    margin-left: 150px;  
+    margin-right: 150px; 
+    background-color: black;
+    color: aliceblue;
+    border-radius: 50%;
+    padding: 10px;
+    
+  } 
+.second-navbar .row p {
+    position: relative;
+    left: 150px;
+    top: -50px;
+    margin-bottom: 0;
+}
+h2 {
+    padding-left: 380px;
+    padding-top: 120px;
+}
+.carousel-control-next, .carousel-control-prev {
+    background-color: black;
+
+}
+.icona {
+    position: relative;
+    left: -5px;
+    
+}
+.par {
+    position: relative;
+    right: 30px;
+    top: -5px;
+}
+.par1 {
+    position: relative;
+    right: 70px;
+    top: -5px;
+}
+.star {
+    position: relative;
+    left: 50px;
+    top: -5px;
+   
+}
+.star i{
+    color: gold;
+}
+.star p {
+    position: relative;
+    left: -55px;
+    top: -3px;
+}
+.star a{
+    position: relative;
+    left: -70px;
+    top: -3px;
+    color: grey;
+}
+.icona1 {
+    position: relative;
+    left: 200px;
+    top: -55px;
+}
