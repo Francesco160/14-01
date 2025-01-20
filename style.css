@@ -22,11 +22,18 @@
     margin-bottom: 0;
 }
 h2 {
-    padding-left: 380px;
+    padding-left: 300px;
     padding-top: 120px;
+    
 }
 .carousel-control-next, .carousel-control-prev {
     background-color: black;
+    width: 50px;
+    border-radius: 50%;
+    height: 50px;
+    
+    
+    
 
 }
 .icona {
@@ -68,4 +75,20 @@ h2 {
     position: relative;
     left: 200px;
     top: -55px;
+}
+.icona1:hover{
+     color: red;
+}
+
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin-left: 50px;
+    
+}
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);;
+    z-index: 10;
+    
+
 }
